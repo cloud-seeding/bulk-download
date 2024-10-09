@@ -1,0 +1,724 @@
+197906
+197905
+198007
+198006
+198008
+197903
+197904
+197908
+197912
+198002
+198005
+198001
+197901
+197907
+197909
+197911
+198004
+197902
+198003
+197910
+198102
+198009
+198010
+198103
+198104
+198011
+198012
+198101
+198202
+198111
+198109
+198106
+198108
+198105
+198112
+198107
+198201
+198204
+198110
+198203
+198206
+
+
+
+Moved to HDD: air.202312.nc
+Downloaded to SSD: air.202311.nc
+Moved to HDD: air.202311.nc
+Downloaded to SSD: air.198212.nc
+Moved to HDD: air.198212.nc
+Downloaded to SSD: air.202406.nc
+Moved to HDD: air.202406.nc
+Downloaded to SSD: air.202404.nc
+Moved to HDD: air.202404.nc
+Downloaded to SSD: air.202405.nc
+Moved to HDD: air.202405.nc
+Downloaded to SSD: air.198210.nc
+Moved to HDD: air.198210.nc
+Downloaded to SSD: air.198205.nc
+Moved to HDD: air.198205.nc
+Downloaded to SSD: air.198209.nc
+Moved to HDD: air.198209.nc
+Downloaded to SSD: air.202408.nc
+Moved to HDD: air.202408.nc
+Downloaded to SSD: air.202407.nc
+Moved to HDD: air.202407.nc
+Downloaded to SSD: air.202403.nc
+Moved to HDD: air.202403.nc
+Downloaded to SSD: air.198310.nc
+Moved to HDD: air.198310.nc
+Downloaded to SSD: air.198302.nc
+Moved to HDD: air.198302.nc
+Downloaded to SSD: air.198207.nc
+Moved to HDD: air.198207.nc
+Downloaded to SSD: air.198208.nc
+Moved to HDD: air.198208.nc
+Downloaded to SSD: air.198406.nc
+Moved to HDD: air.198406.nc
+Downloaded to SSD: air.198304.nc
+Moved to HDD: air.198304.nc
+Downloaded to SSD: air.198308.nc
+Moved to HDD: air.198308.nc
+Downloaded to SSD: air.198211.nc
+Moved to HDD: air.198211.nc
+Downloaded to SSD: air.198301.nc
+Moved to HDD: air.198301.nc
+Downloaded to SSD: air.198312.nc
+Moved to HDD: air.198312.nc
+Downloaded to SSD: air.198305.nc
+Moved to HDD: air.198305.nc
+Downloaded to SSD: air.198307.nc
+Moved to HDD: air.198307.nc
+Downloaded to SSD: air.198407.nc
+Moved to HDD: air.198407.nc
+Downloaded to SSD: air.198503.nc
+Moved to HDD: air.198503.nc
+Downloaded to SSD: air.198401.nc
+Moved to HDD: air.198401.nc
+Downloaded to SSD: air.198404.nc
+Moved to HDD: air.198404.nc
+Downloaded to SSD: air.198409.nc
+Moved to HDD: air.198409.nc
+Downloaded to SSD: air.198408.nc
+Moved to HDD: air.198408.nc
+Downloaded to SSD: air.198309.nc
+Moved to HDD: air.198309.nc
+Downloaded to SSD: air.198410.nc
+Moved to HDD: air.198410.nc
+Downloaded to SSD: air.198411.nc
+Moved to HDD: air.198411.nc
+Downloaded to SSD: air.198403.nc
+Moved to HDD: air.198403.nc
+Downloaded to SSD: air.198402.nc
+Moved to HDD: air.198402.nc
+Downloaded to SSD: air.198311.nc
+Moved to HDD: air.198311.nc
+Failed to process air.198602.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198509.nc
+Moved to HDD: air.198509.nc
+Downloaded to SSD: air.198405.nc
+Moved to HDD: air.198405.nc
+Downloaded to SSD: air.198508.nc
+Moved to HDD: air.198508.nc
+Downloaded to SSD: air.198412.nc
+Moved to HDD: air.198412.nc
+Downloaded to SSD: air.198502.nc
+Moved to HDD: air.198502.nc
+Downloaded to SSD: air.198506.nc
+Moved to HDD: air.198506.nc
+Downloaded to SSD: air.198511.nc
+Moved to HDD: air.198511.nc
+Downloaded to SSD: air.198501.nc
+Moved to HDD: air.198501.nc
+Downloaded to SSD: air.198505.nc
+Moved to HDD: air.198505.nc
+Failed to process air.198510.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198601.nc
+Moved to HDD: air.198601.nc
+Downloaded to SSD: air.198604.nc
+Moved to HDD: air.198604.nc
+Failed to process air.198612.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198504.nc
+Moved to HDD: air.198504.nc
+Downloaded to SSD: air.198603.nc
+Moved to HDD: air.198603.nc
+Failed to process air.198707.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198507.nc
+Moved to HDD: air.198507.nc
+Failed to process air.198702.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198705.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198710.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198704.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198708.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198709.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198512.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198609.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198606.nc
+Moved to HDD: air.198606.nc
+Failed to process air.198611.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198607.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198701.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198605.nc
+Moved to HDD: air.198605.nc
+Failed to process air.198706.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198610.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198703.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198608.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198802.nc
+Moved to HDD: air.198802.nc
+Downloaded to SSD: air.198812.nc
+Moved to HDD: air.198812.nc
+Downloaded to SSD: air.198805.nc
+Moved to HDD: air.198805.nc
+Downloaded to SSD: air.198809.nc
+Moved to HDD: air.198809.nc
+Downloaded to SSD: air.198804.nc
+Moved to HDD: air.198804.nc
+Downloaded to SSD: air.198906.nc
+Moved to HDD: air.198906.nc
+Downloaded to SSD: air.198803.nc
+Moved to HDD: air.198803.nc
+Downloaded to SSD: air.198905.nc
+Moved to HDD: air.198905.nc
+Failed to process air.198907.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198902.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.198904.nc
+Moved to HDD: air.198904.nc
+Downloaded to SSD: air.198712.nc
+Moved to HDD: air.198712.nc
+Failed to process air.199001.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199002.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198912.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198806.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198909.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198807.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198911.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198801.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199005.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198901.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198903.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198811.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198810.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198910.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198711.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199004.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198908.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199003.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.198808.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199111.nc
+Moved to HDD: air.199111.nc
+Downloaded to SSD: air.199110.nc
+Moved to HDD: air.199110.nc
+Downloaded to SSD: air.199007.nc
+Moved to HDD: air.199007.nc
+Downloaded to SSD: air.199106.nc
+Moved to HDD: air.199106.nc
+Downloaded to SSD: air.199101.nc
+Moved to HDD: air.199101.nc
+Downloaded to SSD: air.199201.nc
+Moved to HDD: air.199201.nc
+Downloaded to SSD: air.199009.nc
+Moved to HDD: air.199009.nc
+Downloaded to SSD: air.199006.nc
+Moved to HDD: air.199006.nc
+Downloaded to SSD: air.199108.nc
+Moved to HDD: air.199108.nc
+Downloaded to SSD: air.199206.nc
+Moved to HDD: air.199206.nc
+Downloaded to SSD: air.199202.nc
+Moved to HDD: air.199202.nc
+Downloaded to SSD: air.199205.nc
+Moved to HDD: air.199205.nc
+Downloaded to SSD: air.199204.nc
+Moved to HDD: air.199204.nc
+Downloaded to SSD: air.199208.nc
+Moved to HDD: air.199208.nc
+Downloaded to SSD: air.199210.nc
+Moved to HDD: air.199210.nc
+Downloaded to SSD: air.199211.nc
+Moved to HDD: air.199211.nc
+Downloaded to SSD: air.199209.nc
+Moved to HDD: air.199209.nc
+Downloaded to SSD: air.199212.nc
+Moved to HDD: air.199212.nc
+Downloaded to SSD: air.199203.nc
+Moved to HDD: air.199203.nc
+Downloaded to SSD: air.199301.nc
+Moved to HDD: air.199301.nc
+Downloaded to SSD: air.199302.nc
+Moved to HDD: air.199302.nc
+Downloaded to SSD: air.199303.nc
+Moved to HDD: air.199303.nc
+Downloaded to SSD: air.199307.nc
+Moved to HDD: air.199307.nc
+Downloaded to SSD: air.199305.nc
+Moved to HDD: air.199305.nc
+Failed to process air.199102.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199308.nc
+Moved to HDD: air.199308.nc
+Downloaded to SSD: air.199010.nc
+Moved to HDD: air.199010.nc
+Downloaded to SSD: air.199310.nc
+Moved to HDD: air.199310.nc
+Downloaded to SSD: air.199306.nc
+Moved to HDD: air.199306.nc
+Downloaded to SSD: air.199012.nc
+Moved to HDD: air.199012.nc
+Downloaded to SSD: air.199008.nc
+Moved to HDD: air.199008.nc
+Downloaded to SSD: air.199105.nc
+Moved to HDD: air.199105.nc
+Failed to process air.199406.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199309.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199401.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199311.nc
+Moved to HDD: air.199311.nc
+Failed to process air.199304.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199107.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199407.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199207.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199408.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199109.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199112.nc
+Moved to HDD: air.199112.nc
+Downloaded to SSD: air.199312.nc
+Moved to HDD: air.199312.nc
+Downloaded to SSD: air.199103.nc
+Moved to HDD: air.199103.nc
+Failed to process air.199412.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199502.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199503.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199505.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199011.nc
+Moved to HDD: air.199011.nc
+Downloaded to SSD: air.199104.nc
+Moved to HDD: air.199104.nc
+Downloaded to SSD: air.199402.nc
+Moved to HDD: air.199402.nc
+Downloaded to SSD: air.199404.nc
+Moved to HDD: air.199404.nc
+Downloaded to SSD: air.199411.nc
+Moved to HDD: air.199411.nc
+Downloaded to SSD: air.199410.nc
+Moved to HDD: air.199410.nc
+Downloaded to SSD: air.199409.nc
+Moved to HDD: air.199409.nc
+Downloaded to SSD: air.199508.nc
+Moved to HDD: air.199508.nc
+Downloaded to SSD: air.199403.nc
+Moved to HDD: air.199403.nc
+Downloaded to SSD: air.199405.nc
+Moved to HDD: air.199405.nc
+Downloaded to SSD: air.199511.nc
+Moved to HDD: air.199511.nc
+Downloaded to SSD: air.199602.nc
+Moved to HDD: air.199602.nc
+Downloaded to SSD: air.199509.nc
+Moved to HDD: air.199509.nc
+Downloaded to SSD: air.199512.nc
+Moved to HDD: air.199512.nc
+Downloaded to SSD: air.199501.nc
+Moved to HDD: air.199501.nc
+Downloaded to SSD: air.199603.nc
+Moved to HDD: air.199603.nc
+Downloaded to SSD: air.199507.nc
+Moved to HDD: air.199507.nc
+Downloaded to SSD: air.199504.nc
+Moved to HDD: air.199504.nc
+Downloaded to SSD: air.199510.nc
+Moved to HDD: air.199510.nc
+Downloaded to SSD: air.199506.nc
+Moved to HDD: air.199506.nc
+Downloaded to SSD: air.199605.nc
+Moved to HDD: air.199605.nc
+Downloaded to SSD: air.199601.nc
+Moved to HDD: air.199601.nc
+Failed to process air.199709.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199607.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199606.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199705.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199612.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199611.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199704.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199703.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199608.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199707.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199701.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199610.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199708.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199702.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199604.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199609.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199706.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199710.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199803.nc
+Moved to HDD: air.199803.nc
+Downloaded to SSD: air.199712.nc
+Moved to HDD: air.199712.nc
+Downloaded to SSD: air.199807.nc
+Moved to HDD: air.199807.nc
+Failed to process air.199811.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199904.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199801.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199907.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199810.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199804.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199903.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199902.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199711.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199908.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199802.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199806.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199812.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199809.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.199905.nc
+Moved to HDD: air.199905.nc
+Downloaded to SSD: air.199909.nc
+Moved to HDD: air.199909.nc
+Downloaded to SSD: air.200007.nc
+Moved to HDD: air.200007.nc
+Downloaded to SSD: air.199906.nc
+Moved to HDD: air.199906.nc
+Downloaded to SSD: air.200008.nc
+Moved to HDD: air.200008.nc
+Downloaded to SSD: air.199910.nc
+Moved to HDD: air.199910.nc
+Failed to process air.200005.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200003.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200011.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200006.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200103.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200002.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200010.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200104.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200102.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200009.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200101.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199911.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199901.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199805.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200004.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199808.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200012.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200110.nc
+Moved to HDD: air.200110.nc
+Downloaded to SSD: air.200210.nc
+Moved to HDD: air.200210.nc
+Downloaded to SSD: air.200107.nc
+Moved to HDD: air.200107.nc
+Downloaded to SSD: air.200105.nc
+Moved to HDD: air.200105.nc
+Failed to process air.200301.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200202.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200207.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200203.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200112.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200209.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200208.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200212.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200204.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200108.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200201.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200205.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200211.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200106.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200111.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200109.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200206.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200302.nc
+Moved to HDD: air.200302.nc
+Downloaded to SSD: air.200305.nc
+Moved to HDD: air.200305.nc
+Downloaded to SSD: air.200403.nc
+Moved to HDD: air.200403.nc
+Downloaded to SSD: air.200306.nc
+Moved to HDD: air.200306.nc
+Downloaded to SSD: air.200303.nc
+Moved to HDD: air.200303.nc
+Failed to process air.200307.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200308.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200408.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200402.nc
+Moved to HDD: air.200402.nc
+Failed to process air.200401.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200412.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200405.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200312.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200304.nc
+Moved to HDD: air.200304.nc
+Failed to process air.200309.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200310.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200409.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200311.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200404.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200410.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200406.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200407.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200411.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200503.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200502.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200501.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200507.nc
+Moved to HDD: air.200507.nc
+Downloaded to SSD: air.200609.nc
+Moved to HDD: air.200609.nc
+Downloaded to SSD: air.200605.nc
+Moved to HDD: air.200605.nc
+Downloaded to SSD: air.200510.nc
+Moved to HDD: air.200510.nc
+Downloaded to SSD: air.200601.nc
+Moved to HDD: air.200601.nc
+Failed to process air.200602.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200607.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200505.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200506.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200611.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200612.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200701.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200606.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200610.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200511.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200604.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200603.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200509.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200512.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200608.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200504.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200508.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200705.nc
+Moved to HDD: air.200705.nc
+Downloaded to SSD: air.200706.nc
+Moved to HDD: air.200706.nc
+Downloaded to SSD: air.200702.nc
+Moved to HDD: air.200702.nc
+Downloaded to SSD: air.200703.nc
+Moved to HDD: air.200703.nc
+Downloaded to SSD: air.200808.nc
+Moved to HDD: air.200808.nc
+Failed to process air.200801.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200802.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200709.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200710.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200707.nc
+Moved to HDD: air.200707.nc
+Downloaded to SSD: air.200804.nc
+Moved to HDD: air.200804.nc
+Failed to process air.200812.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200809.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200904.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200901.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200810.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.200704.nc
+Moved to HDD: air.200704.nc
+Failed to process air.200902.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200803.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200805.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200905.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200807.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200712.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200711.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200806.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200708.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200811.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200903.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201006.nc: 502, message='Proxy Error', url='https://psl.noaa.gov/thredds/fileServer/Datasets/NARR/pressure/air.201006.nc'
+Failed to process air.200906.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201005.nc: 502, message='Proxy Error', url='https://psl.noaa.gov/thredds/fileServer/Datasets/NARR/pressure/air.201005.nc'
+Failed to process air.201002.nc: 502, message='Proxy Error', url='https://psl.noaa.gov/thredds/fileServer/Datasets/NARR/pressure/air.201002.nc'
+Failed to process air.201001.nc: 502, message='Proxy Error', url='https://psl.noaa.gov/thredds/fileServer/Datasets/NARR/pressure/air.201001.nc'
+Failed to process air.201004.nc: 502, message='Proxy Error', url='https://psl.noaa.gov/thredds/fileServer/Datasets/NARR/pressure/air.201004.nc'
+Failed to process air.200911.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200912.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200909.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200908.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200907.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200910.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201102.nc
+Moved to HDD: air.201102.nc
+Downloaded to SSD: air.201007.nc
+Moved to HDD: air.201007.nc
+Downloaded to SSD: air.201009.nc
+Moved to HDD: air.201009.nc
+Downloaded to SSD: air.201012.nc
+Moved to HDD: air.201012.nc
+Failed to process air.201110.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201103.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201202.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201107.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201105.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201011.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201101.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201108.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201112.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201008.nc
+Moved to HDD: air.201008.nc
+Failed to process air.201201.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201003.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201109.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201106.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201111.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201104.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201010.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.199912.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.200001.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201206.nc
+Moved to HDD: air.201206.nc
+Downloaded to SSD: air.201210.nc
+Moved to HDD: air.201210.nc
+Downloaded to SSD: air.201211.nc
+Moved to HDD: air.201211.nc
+Downloaded to SSD: air.201304.nc
+Moved to HDD: air.201304.nc
+Downloaded to SSD: air.201209.nc
+Moved to HDD: air.201209.nc
+Failed to process air.201309.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201302.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201312.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201204.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201311.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201306.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201401.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201207.nc
+Moved to HDD: air.201207.nc
+Failed to process air.201303.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201308.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201310.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201301.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201212.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201205.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201305.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201307.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201208.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201404.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201203.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201402.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201407.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201403.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201408.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201405.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201406.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201502.nc
+Moved to HDD: air.201502.nc
+Downloaded to SSD: air.201506.nc
+Moved to HDD: air.201506.nc
+Downloaded to SSD: air.201505.nc
+Moved to HDD: air.201505.nc
+Failed to process air.201503.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201412.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201507.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201509.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201510.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201605.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201606.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201603.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201601.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201511.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201604.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201409.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201411.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201504.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201508.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201410.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201501.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201602.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201512.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201706.nc
+Moved to HDD: air.201706.nc
+Downloaded to SSD: air.201709.nc
+Moved to HDD: air.201709.nc
+Downloaded to SSD: air.201607.nc
+Moved to HDD: air.201607.nc
+Failed to process air.201711.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201702.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201710.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201608.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201703.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201802.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201712.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201705.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201801.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201609.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201701.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201610.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201708.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201612.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201704.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201611.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201804.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201803.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201707.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.201806.nc
+Moved to HDD: air.201806.nc
+Downloaded to SSD: air.201807.nc
+Moved to HDD: air.201807.nc
+Failed to process air.201905.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201901.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201810.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201911.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201904.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201812.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201912.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201910.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201902.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201805.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201811.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201909.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201908.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201906.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201903.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201907.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202001.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201809.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202004.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202002.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202103.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202107.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202102.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202007.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202012.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202105.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202010.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202008.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202011.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202003.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202108.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202009.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202005.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202101.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202006.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202106.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202104.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.202111.nc
+Moved to HDD: air.202111.nc
+Downloaded to SSD: air.202209.nc
+Moved to HDD: air.202209.nc
+Failed to process air.202202.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202206.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202201.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202303.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202210.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202112.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202203.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202302.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202109.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202304.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202207.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202204.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202205.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202212.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202211.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202110.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Moved to HDD: air.202306.nc
+Failed to process air.202405.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202312.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Downloaded to SSD: air.202407.nc
+Moved to HDD: air.202407.nc
+Failed to process air.202311.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202401.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202308.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202305.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202307.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202406.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202309.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.202408.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>
+Failed to process air.201808.nc: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>

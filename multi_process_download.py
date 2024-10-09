@@ -1,5 +1,5 @@
 """
-Download Speed: 3mins for 1Gb
+95 Mbps
 """
 
 

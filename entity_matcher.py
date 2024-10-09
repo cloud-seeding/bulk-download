@@ -8,14 +8,14 @@ def load_expected_sizes(json_file, entity):
     return {k: v for k, v in data[entity].items() if v != 'N/A'}
 
 
-def get_actual_sizes(directory):
+def get_actual_sizes(directory, entity):
     actual_sizes = {}
     for file in os.listdir(directory):
-        if file.endswith('.nc'):
+        if file.startswith(f"{entity}.") and file.endswith('.nc'):
             file_path = os.path.join(directory, file)
             size_mb = os.path.getsize(file_path) / \
-                (1024 * 1024)
-            year_month = file[:6]
+                (1024 * 1024)  # Convert bytes to MB
+            year_month = file.split('.')[1][:6]  # Extract YYYYMM from filename
             actual_sizes[year_month] = round(size_mb, 1)
     return actual_sizes
 
@@ -29,7 +29,7 @@ def compare_sizes(expected, actual):
             expected_size = float(expected_size)
             if year_month in actual:
                 actual_size = actual[year_month]
-                if abs(actual_size - expected_size) > 0.1:
+                if abs(actual_size - expected_size) > 0.1:  # Allow 0.1 MB tolerance
                     mismatches.append((year_month, expected_size, actual_size))
             else:
                 missing.append(year_month)
@@ -44,7 +44,7 @@ def main():
     entity = "air"
 
     expected_sizes = load_expected_sizes('pressure_sizes.json', entity)
-    actual_sizes = get_actual_sizes(f'Z:/NARR/{entity}')
+    actual_sizes = get_actual_sizes(f'Z:/NARR/{entity}', entity)
 
     mismatches, missing = compare_sizes(expected_sizes, actual_sizes)
 

@@ -12,7 +12,7 @@ import re
 
 DOWNLOAD_LOC = "Z:/NARR/"
 TEMP_DOWNLOAD_LOC = "E:/cache/"
-LIST_CATEGORY = "hgt"
+LIST_CATEGORY = "ALL"
 MAX_CONCURRENT_DOWNLOADS = 20  # Adjust based on your SSD's capability
 START_YEAR = 2000  # Only download files from this year onwards
 
@@ -29,10 +29,10 @@ def extract_year_from_filename(filename):
         return None
 
 
-async def download_file(semaphore, session, url):
+async def download_file(semaphore, session, url, category):
     filename = os.path.basename(url)
-    temp_save_dir = os.path.join(TEMP_DOWNLOAD_LOC, LIST_CATEGORY)
-    final_save_dir = os.path.join(DOWNLOAD_LOC, LIST_CATEGORY)
+    temp_save_dir = os.path.join(TEMP_DOWNLOAD_LOC, category)
+    final_save_dir = os.path.join(DOWNLOAD_LOC, category)
     temp_save_path = os.path.join(temp_save_dir, filename)
     final_save_path = os.path.join(final_save_dir, filename)
     os.makedirs(temp_save_dir, exist_ok=True)
@@ -63,15 +63,23 @@ async def download_file(semaphore, session, url):
 async def main():
     with open('catalog.json', 'r') as f:
         data = json.load(f)
-    urls = data[LIST_CATEGORY]
+
+    if LIST_CATEGORY == "ALL":
+        urls_with_category = []
+        for category in data:
+            for url in data[category]:
+                urls_with_category.append((url, category))
+    else:
+        urls_with_category = [(url, LIST_CATEGORY)
+                              for url in data[LIST_CATEGORY]]
 
     # Filter URLs based on START_YEAR
-    filtered_urls = []
-    for url in urls:
+    filtered_urls_with_category = []
+    for url, category in urls_with_category:
         filename = os.path.basename(url)
         year = extract_year_from_filename(filename)
         if year and year >= START_YEAR:
-            filtered_urls.append(url)
+            filtered_urls_with_category.append((url, category))
         else:
             print(f"Skipping file from year {year}: {filename}")
 
@@ -79,8 +87,8 @@ async def main():
     timeout = aiohttp.ClientTimeout(total=None)
     connector = aiohttp.TCPConnector(limit=0)
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
-        tasks = [download_file(semaphore, session, url)
-                 for url in filtered_urls]
+        tasks = [download_file(semaphore, session, url, category)
+                 for url, category in filtered_urls_with_category]
         await asyncio.gather(*tasks)
 
 if __name__ == '__main__':

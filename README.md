@@ -6,4 +6,4 @@ Technique 1 (Requires good core count):
 
 Technique 2 (Requires good RAM):
 `python async_io_download.py`
-~135 Mbps
+~500+ Mbps (Works pretty fast, ensure cache location is an ssd)

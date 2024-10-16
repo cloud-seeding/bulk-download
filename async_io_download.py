@@ -1,5 +1,5 @@
 """
-135 Mbps
+500 Mbps
 """
 
 import os
@@ -8,11 +8,25 @@ import shutil
 import asyncio
 import aiohttp
 import aiofiles
+import re
 
 DOWNLOAD_LOC = "Z:/NARR/"
-TEMP_DOWNLOAD_LOC = "./cache"
-LIST_CATEGORY = "air"
+TEMP_DOWNLOAD_LOC = "E:/cache/"
+LIST_CATEGORY = "hgt"
 MAX_CONCURRENT_DOWNLOADS = 20  # Adjust based on your SSD's capability
+START_YEAR = 2000  # Only download files from this year onwards
+
+
+def extract_year_from_filename(filename):
+    """
+    Extracts the year from the filename using regular expressions.
+    Assumes the filename contains a date in the format YYYY or YYYYMMDD.
+    """
+    match = re.search(r'(\d{4})', filename)
+    if match:
+        return int(match.group(1))
+    else:
+        return None
 
 
 async def download_file(semaphore, session, url):
@@ -51,11 +65,22 @@ async def main():
         data = json.load(f)
     urls = data[LIST_CATEGORY]
 
+    # Filter URLs based on START_YEAR
+    filtered_urls = []
+    for url in urls:
+        filename = os.path.basename(url)
+        year = extract_year_from_filename(filename)
+        if year and year >= START_YEAR:
+            filtered_urls.append(url)
+        else:
+            print(f"Skipping file from year {year}: {filename}")
+
     semaphore = asyncio.Semaphore(MAX_CONCURRENT_DOWNLOADS)
     timeout = aiohttp.ClientTimeout(total=None)
     connector = aiohttp.TCPConnector(limit=0)
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
-        tasks = [download_file(semaphore, session, url) for url in urls]
+        tasks = [download_file(semaphore, session, url)
+                 for url in filtered_urls]
         await asyncio.gather(*tasks)
 
 if __name__ == '__main__':

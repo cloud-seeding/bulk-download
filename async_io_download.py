@@ -9,12 +9,17 @@ import asyncio
 import aiohttp
 import aiofiles
 import re
+import logging
 
 DOWNLOAD_LOC = "Z:/NARR/"
 TEMP_DOWNLOAD_LOC = "E:/cache/"
 LIST_CATEGORY = "ALL"
 MAX_CONCURRENT_DOWNLOADS = 20  # Adjust based on your SSD's capability
 START_YEAR = 2000  # Only download files from this year onwards
+
+# Configure logging
+logging.basicConfig(filename='log.txt', level=logging.INFO,
+                    format='%(asctime)s %(levelname)s:%(message)s')
 
 
 def extract_year_from_filename(filename):
@@ -29,7 +34,7 @@ def extract_year_from_filename(filename):
         return None
 
 
-async def download_file(semaphore, session, url, category):
+async def download_file(semaphore, session, url, category, max_retries=3):
     filename = os.path.basename(url)
     temp_save_dir = os.path.join(TEMP_DOWNLOAD_LOC, category)
     final_save_dir = os.path.join(DOWNLOAD_LOC, category)
@@ -41,23 +46,58 @@ async def download_file(semaphore, session, url, category):
     # Check if the file already exists in the final destination
     if os.path.exists(final_save_path):
         print(f"File already exists, skipping download: {filename}")
+        logging.info(f"File already exists, skipping download: {filename}")
         return
 
-    async with semaphore:
+    # Initialize retry count
+    retry_count = 0
+
+    while retry_count <= max_retries:
         try:
-            # Download to SSD
-            async with session.get(url) as resp:
-                resp.raise_for_status()
-                async with aiofiles.open(temp_save_path, 'wb') as f:
-                    async for chunk in resp.content.iter_chunked(1024 * 64):
-                        await f.write(chunk)
+            # Before starting download, if temp file exists, delete it
+            if os.path.exists(temp_save_path):
+                os.remove(temp_save_path)
+                logging.info(f"Deleted partial file: {temp_save_path}")
+
+            # Acquire semaphore before starting download
+            async with semaphore:
+                # Download to SSD
+                async with session.get(url) as resp:
+                    resp.raise_for_status()
+                    async with aiofiles.open(temp_save_path, 'wb') as f:
+                        async for chunk in resp.content.iter_chunked(1024 * 64):
+                            await f.write(chunk)
             print(f"Downloaded to SSD: {filename}")
+            logging.info(f"Downloaded to SSD: {filename}")
 
             # Move to HDD
             shutil.move(temp_save_path, final_save_path)
             print(f"Moved to HDD: {filename}")
+            logging.info(f"Moved to HDD: {filename}")
+
+            # Successful download, break out of retry loop
+            break
+
         except Exception as e:
-            print(f"Failed to process {filename}: {e}")
+            retry_count += 1
+            print(f"Failed to process {filename}, attempt {retry_count}: {e}")
+            logging.error(f"Failed to process {
+                          filename}, attempt {retry_count}: {e}")
+
+            # Delete any partially downloaded file
+            if os.path.exists(temp_save_path):
+                os.remove(temp_save_path)
+                logging.info(f"Deleted partial file after failure: {
+                             temp_save_path}")
+
+            if retry_count > max_retries:
+                print(f"Max retries reached for {filename}, moving on.")
+                logging.error(f"Max retries reached for {
+                              filename}, moving on.")
+                break
+            else:
+                # Wait some time before retrying
+                await asyncio.sleep(5)  # Wait 5 seconds before retrying
 
 
 async def main():
@@ -87,8 +127,10 @@ async def main():
     timeout = aiohttp.ClientTimeout(total=None)
     connector = aiohttp.TCPConnector(limit=0)
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
-        tasks = [download_file(semaphore, session, url, category)
-                 for url, category in filtered_urls_with_category]
+        tasks = [
+            download_file(semaphore, session, url, category)
+            for url, category in filtered_urls_with_category
+        ]
         await asyncio.gather(*tasks)
 
 if __name__ == '__main__':
